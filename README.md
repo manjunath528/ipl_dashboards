@@ -1,4 +1,5 @@
 Here I have created the dashboards for the data that I have previously processed from the snowflake .
+
 Project Overview:
 
 This project involves the creation of interactive Tableau dashboards that provide insights into the analysis of the ipl cricket history and the players historical details. The analysis explores trends, patterns, and other data points that can be used to derive meaningful conclusions about ipl cricket and all about the player details like their performance in the ipl whole history.
