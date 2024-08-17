@@ -7,6 +7,7 @@ This project involves the creation of interactive Tableau dashboards that provid
 Datasets Used:
 
  I have used the datasets that have previously cleaned and prepared from the json data using the snowflake and the tables include the two fact tables and 10 diamension tables .
+ [text](https://github.com/manjunath528/ipl_data_processing_sf/tree/main/5.final_csv_files)
 Tables are: 
 1. Match_Fact ,which includes the complete details about the match.
 2. Delivery_Fact , which include the all the details about the each delivery in the ipl.
