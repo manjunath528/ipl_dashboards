@@ -34,7 +34,24 @@ Here it says the complete details about the seasonwise data, it includes the she
     8. Team with highest runs scored in a single match
     9. Player with best spell in entire season
     10. Player with the highest individual score in single match
+    11. Points table of the teams performances
 Finally the dashboard looks as below:
        ![1](https://github.com/user-attachments/assets/5cbb45af-e680-47c7-9e09-471412467b3b)
+
+2. Player Dashboard:
+
+Here we can find the all details about the each player who represented in the ipl cricket like
+    1. Title which stores the details like player name and class he belongs and the strike rate of the player navigation to the first dashboard
+    2. 3 KPI's providing the details about the total runs he scored, sixes , fours and wickets took in his ipl career.
+    4. Map to provide the details about the his performance in each venue he played.
+    5. Top 10 perforamnces as a batsmen
+    6. Top 10 performances as a bowler 
+    7. Total matches that he played for each team in his ipl career
+    8. Player best spell as bowler
+    9. Player highest score in his ipl career
+Finally the dashboard looks as below:
+     ![Dashboard2](https://github.com/user-attachments/assets/2506bcf4-d643-4b43-a67b-9be421065763)
+   
+
     
 
