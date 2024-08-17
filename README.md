@@ -41,14 +41,14 @@ Finally the dashboard looks as below:
 2. Player Dashboard:
 
 Here we can find the all details about the each player who represented in the ipl cricket like
-    1. Title which stores the details like player name and class he belongs and the strike rate of the player navigation to the first dashboard
-    2. 3 KPI's providing the details about the total runs he scored, sixes , fours and wickets took in his ipl career.
-    4. Map to provide the details about the his performance in each venue he played.
-    5. Top 10 perforamnces as a batsmen
-    6. Top 10 performances as a bowler 
-    7. Total matches that he played for each team in his ipl career
-    8. Player best spell as bowler
-    9. Player highest score in his ipl career
+     1. Title which stores the details like player name and class he belongs and the strike rate of the player navigation to the first dashboard
+     2. 3 KPI's providing the details about the total runs he scored, sixes , fours and wickets took in his ipl career.
+     3. Map to provide the details about the his performance in each venue he played.
+     4. Top 10 perforamnces as a batsmen
+     5. Top 10 performances as a bowler 
+     6. Total matches that he played for each team in his ipl career
+     7. Player best spell as bowler
+     8. Player highest score in his ipl career
 Finally the dashboard looks as below:
      ![Dashboard2](https://github.com/user-attachments/assets/2506bcf4-d643-4b43-a67b-9be421065763)
    
