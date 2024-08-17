@@ -12,11 +12,12 @@ Tables are:
 3. Finally we have different diamension tables wich stores the details about the team_details, season_details, venue_details etc,
 
 Objective:
+
  The primary objective of this project is to:
-    1. Provide an interactive and user-friendly way to explore data related to ipl cricket.
-    2. Provide the details about the all the players of the ipl cricket .
-    3. Provide the details of the each season historical data like total sixes in that tournament , total fours etc,
-    4. Provide the details about the player details like total runs, top 10 perforamnces in his ipl history etc,
+1. Provide an interactive and user-friendly way to explore data related to ipl cricket.
+2. Provide the details about the all the players of the ipl cricket .
+3. Provide the details of the each season historical data like total sixes in that tournament , total fours etc,
+4. Provide the details about the player details like total runs, top 10 perforamnces in his ipl history etc,
 
 Dashboards:
      
