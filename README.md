@@ -57,9 +57,9 @@ Finally the dashboard looks as below:
 
 
 **Technologies Used:**
-    Tableau: For data visualization and dashboard creation.
-    Snowflake/Excel/SQL : For data cleaning, transformation, or any pre-analysis steps.
-    Data Sources: [main source](https://cricsheet.org/downloads/ipl_json.zip)
+1. Tableau: For data visualization and dashboard creation.
+2. Snowflake/Excel/SQL : For data cleaning, transformation, or any pre-analysis steps.
+3.  Data Sources: [main source](https://cricsheet.org/downloads/ipl_json.zip)
 
 
 **Conclusion:**
