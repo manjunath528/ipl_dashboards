@@ -1,21 +1,21 @@
 Here I have created the dashboards for the data that I have previously processed from the snowflake .
 
-Project Overview:
+**Project Overview:**
 
 This project involves the creation of interactive Tableau dashboards that provide insights into the analysis of the ipl cricket history and the players historical details. The analysis explores trends, patterns, and other data points that can be used to derive meaningful conclusions about ipl cricket and all about the player details like their performance in the ipl whole history.
 
-Datasets Used:
+**Datasets Used:**
 
  I have used the datasets that have previously cleaned and prepared from the json data using the snowflake and the tables include the two fact tables and 10 diamension tables .
  Link fir the datasets is: 
- [text](https://github.com/manjunath528/ipl_data_processing_sf/tree/main/5.final_csv_files)
+ [my previous work on cleaning data](https://github.com/manjunath528/ipl_data_processing_sf/tree/main/5.final_csv_files)
 
 Tables are: 
 1. Match_Fact ,which includes the complete details about the match.
 2. Delivery_Fact , which include the all the details about the each delivery in the ipl.
 3. Finally we have different diamension tables wich stores the details about the team_details, season_details, venue_details etc,
 
-Objective:
+**Objective:**
 
  The primary objective of this project is to:
 1. Provide an interactive and user-friendly way to explore data related to ipl cricket.
@@ -23,7 +23,7 @@ Objective:
 3. Provide the details of the each season historical data like total sixes in that tournament , total fours etc,
 4. Provide the details about the player details like total runs, top 10 perforamnces in his ipl history etc,
 
-Dashboards:
+**Dashboards:**
      
 Here I have created 2 Dashboards each dashoborad has its own meaningful insights.
 1. IPL Seasonwise Dashboard:
@@ -54,7 +54,21 @@ Here we can find the all details about the each player who represented in the ip
     8. Player highest score in his ipl career
 Finally the dashboard looks as below:
      ![Dashboard2](https://github.com/user-attachments/assets/2506bcf4-d643-4b43-a67b-9be421065763)
-   
 
+
+**Technologies Used:**
+    Tableau: For data visualization and dashboard creation.
+    Snowflake/Excel/SQL : For data cleaning, transformation, or any pre-analysis steps.
+    Data Sources: [main source](https://cricsheet.org/downloads/ipl_json.zip)
+
+
+**Conclusion:**
+
+The IPL Cricket Dashboard project provides an interactive platform to explore the rich history of the Indian Premier League. By analyzing both season and player performances over the years, the dashboards offer valuable insights into various aspects of the tournament, such as top-performing players, season statistics, and match outcomes. Users can easily filter and interact with the data to uncover trends, such as which player consistently perform well, which players dominate in batting or bowling, and how these performances have evolved across different IPL seasons.
+
+This dashboard serves as a comprehensive tool for cricket enthusiasts, analysts, and decision-makers who want to dive deep into the nuances of the IPL. The insights can help in better understanding player potential and overall tournament dynamics. Future work could include adding predictive analytics to forecast outcomes or integrating live match data for real-time insights.
+
+Ultimately, this project showcases the power of data visualization in making complex cricket data accessible and actionable, transforming raw numbers into stories that captivate the cricketing world.
+  
     
 
